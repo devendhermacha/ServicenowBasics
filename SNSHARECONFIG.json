@@ -1,9 +1,0 @@
-{
-  "devportal_user_name":"devendher.macha@servicenow.com",
-  "instance_health_scan_results":{
-      "url":"<url>"
-  },
-  "collaborators":"<[comma saparated columns]>",
-  "name_of_the_repo":"<repo_name>",
-  "description_repo":"<description_repo>"
-}
