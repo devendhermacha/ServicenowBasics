@@ -1,0 +1,10 @@
+{
+    "devportal_user_name":"<devportal_user_name>",
+    "instance_health_scan_results":{
+        "url":"<url>"
+    },
+    "collaborators":"<[comma saparated values]>",
+    "name_of_the_repo":"<repo_name>",
+    "description_repo":"<description_repo>",
+    "category":"<catageory>"
+  }
